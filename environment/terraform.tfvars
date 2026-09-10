@@ -3,7 +3,7 @@ resource_group = {
     name     = "rahul"
     location = "east asia"
   }
-   rg2 = {
+  rg2 = {
     name     = "bhatt"
     location = "east asia"
   }
